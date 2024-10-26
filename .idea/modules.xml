@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/PleaseWork.iml" filepath="$PROJECT_DIR$/PleaseWork.iml" />
+      <module fileurl="file://$PROJECT_DIR$/FtcRobotController-10.1/TeamCode/src/main/main.iml" filepath="$PROJECT_DIR$/FtcRobotController-10.1/TeamCode/src/main/main.iml" />
+    </modules>
+  </component>
+</project>
